@@ -3,7 +3,7 @@
 //
 
 const obj1 = {
-    person : "Pannawat" ,
+    person : "KANIN" ,
     weight : 100
 }
 
