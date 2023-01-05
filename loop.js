@@ -11,7 +11,7 @@
 //     console.log(name);
 // }
 
-const names = ['ken' , 'ford' , 'ball'];
+const names = ['FIELD' , 'FEW' , 'GREEN'];
 // while loop
 console.log('----while ----');
 let index = 0
